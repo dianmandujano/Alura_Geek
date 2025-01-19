@@ -22,14 +22,14 @@ const App = () => {
   const [products, setProducts] = useState([]);
 
   useEffect(() => {
-    fetch('http://localhost:3000/products')
+    fetch('https://my-json-server.typicode.com/dianmandujano/Alura_Geek/products')
       .then((response) => response.json())
       .then((data) => setProducts(data))
       .catch((error) => console.error(error));
   }, []);
 
   const handleProducts = () => {
-    fetch('http://localhost:3000/products', {
+    fetch('https://my-json-server.typicode.com/dianmandujano/Alura_Geek/products', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
@@ -44,7 +44,7 @@ const App = () => {
   };
 
   const handleDelete = (id) => {
-    fetch(`http://localhost:3000/products/${id}`, {
+    fetch(`https://my-json-server.typicode.com/dianmandujano/Alura_Geek/products${id}`, {
       method: 'DELETE',
     })
       .then((response) => response.json())
