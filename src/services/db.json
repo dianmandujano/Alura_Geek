@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Producto 1",
+      "price": 100,
+      "image": "https://e1.pngegg.com/pngimages/273/181/png-clipart-gameboy-shell-classic-nintendo-game-boy-thumbnail.png"
+    },
+    {
+      "id": "2",
+      "name": "Producto 2",
+      "price": 200,
+      "image": "https://e1.pngegg.com/pngimages/273/181/png-clipart-gameboy-shell-classic-nintendo-game-boy-thumbnail.png"
+    },
+    {
+      "id": "3",
+      "name": "Producto 3",
+      "price": 200,
+      "image": "https://e1.pngegg.com/pngimages/273/181/png-clipart-gameboy-shell-classic-nintendo-game-boy-thumbnail.png"
+    },
+    {
+      "id": "6",
+      "name": "Producto 6",
+      "price": 200,
+      "image": "https://e1.pngegg.com/pngimages/273/181/png-clipart-gameboy-shell-classic-nintendo-game-boy-thumbnail.png"
+    },
+    {
+      "id": "8",
+      "name": "Producto 8",
+      "price": 200,
+      "image": "https://e1.pngegg.com/pngimages/273/181/png-clipart-gameboy-shell-classic-nintendo-game-boy-thumbnail.png"
+    },
+    {
+      "id": "9",
+      "name": "Producto 9",
+      "price": 200,
+      "image": "https://e1.pngegg.com/pngimages/273/181/png-clipart-gameboy-shell-classic-nintendo-game-boy-thumbnail.png"
+    },
+    {
+      "id": "10",
+      "name": "Producto 10",
+      "price": 200,
+      "image": "https://e1.pngegg.com/pngimages/273/181/png-clipart-gameboy-shell-classic-nintendo-game-boy-thumbnail.png"
+    },
+    {
+      "id": "b77b",
+      "name": "Game Boy",
+      "price": "2300",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc6SR5mzkbEeD_miPsxpbpu1A2GObhPCF0ng&s"
+    },
+    {
+      "id": "2334",
+      "name": "AFADSF",
+      "price": "ASDFADSF",
+      "image": "DAFADSF"
+    }
+  ]
+}
