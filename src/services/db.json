@@ -53,6 +53,12 @@
       "name": "AFADSF",
       "price": "ASDFADSF",
       "image": "DAFADSF"
+    },
+    {
+      "id": "d0c1",
+      "name": "Producto jeje equis de",
+      "price": "50",
+      "image": "https://picsum.photos/200"
     }
   ]
 }
